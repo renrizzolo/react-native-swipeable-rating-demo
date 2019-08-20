@@ -1,6 +1,5 @@
 # React Native Swipeable Rating Demo
-See: [react-native-swipeable-rating](https://github.com/renrizzolo/react-native-swipeable-rating)
----
+### See: [react-native-swipeable-rating](https://github.com/renrizzolo/react-native-swipeable-rating)
 
 ## To use:
 - clone this repo
