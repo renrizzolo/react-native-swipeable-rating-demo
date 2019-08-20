@@ -1,6 +1,8 @@
-#React Native Swipeable Rating Demo
+# React Native Swipeable Rating Demo
 See: [react-native-swipeable-rating](https://github.com/renrizzolo/react-native-swipeable-rating)
-##To use:
+---
+
+## To use:
 - clone this repo
 - install the dependencies (`npm i`)
 - install [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
